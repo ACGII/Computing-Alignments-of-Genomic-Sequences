@@ -1,4 +1,8 @@
 # Computing-Alignments-of-Sequences
+## Coursera Fundamentals of Computer Science
+### Algorithmic Thinking (Part 2)
+### Rice University
+
 Implementation of four functions,   these functions in Application 4 are used to analyze two problems involving comparison of similar sequences: 
 
 1.  The first pair of functions will return matrices that we will use in computing the alignment of two sequences. The two types of    matrices: alignment matrices and scoring matrices. 
